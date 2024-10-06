@@ -12,20 +12,19 @@ Features
 Installation
 
     Download the Tool: [Provide download link here]
-    Run the Installer: Execute the downloaded file and follow the on-screen instructions to install the tool.
-    Launch the Tool: Open the tool from your desktop or start menu.
+    Extract the Tool: Use any of your favorite unzipping programs
 
 Usage
 
     Add Mods: Place your .dll mod files in the dllhere folder.
-    Run the Tool: Launch the tool to automatically install the mod runner and patch the game.
+    Run the Tool: Launch the Mod_installer.bat file to automatically install the mod runner, your dll mods and patch the game to the needs of your computer.
     Enjoy: Start Lethal Company and enjoy your new mods!
 
 Troubleshooting
 
     Mod Not Working: Ensure you copied the .dll file from the mods folder and placed it in the dllhere folder.
     Administrator Privileges: Try launching the tool with administrator privileges (this might cause bugs).
-    Game Crashes: Verify that your game version and mods are compatible with the tool.
+    Game Crashes: Verify that your game version and mods are compatible with the tool/mods.
     Contact Me: If all else fails, reach out to me on Discord: altknyyl.
 
 Contributing
