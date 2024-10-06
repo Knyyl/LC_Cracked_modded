@@ -10,7 +10,7 @@ Features
 
 Installation
 
-    Download the Tool: [Provide download link here]
+    Download the Tool: [Releases](https://github.com/Knyyl/LC_Cracked_modded/releases/tag/newest)
     Extract the Tool: Use any of your favorite unzipping programs
 
 Usage
